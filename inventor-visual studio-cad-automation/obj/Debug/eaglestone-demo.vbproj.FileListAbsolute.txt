@@ -1,0 +1,15 @@
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\bin\Debug\eaglestone-demo.exe.config
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\bin\Debug\eaglestone-demo.exe
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\bin\Debug\eaglestone-demo.pdb
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\bin\Debug\eaglestone-demo.xml
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone-demo.vbprojAssemblyReference.cache
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\Interop.InventorApprentice.dll
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\Interop.InventorUtilities.dll
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone-demo.vbproj.ResolveComReference.cache
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone_demo.Form1.resources
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone_demo.Resources.resources
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone-demo.vbproj.GenerateResource.cache
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone-demo.vbproj.CoreCompileInputs.cache
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone-demo.exe
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone-demo.xml
+G:\dgs-technical\project\eaglestone\WIP\demo-mating\eaglestone-demo\obj\Debug\eaglestone-demo.pdb
